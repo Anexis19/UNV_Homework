@@ -8,4 +8,4 @@ Diferencias:
 1. Uso de clases en los elementos HTML
 2. Uso de buenas practicas en elementos semanticos
 3. Organizacion por secciones
-4. Uso de listas y agrupaciones <ul><li> 
+4. Uso de listas y agrupaciones ````<ul><li>````
